@@ -1,3 +1,4 @@
+#Allow input from users and calculate their bmi
 def bmi(myweight, myheight):
     h2=myheight*myheight
     mybmi=myweight/h2
